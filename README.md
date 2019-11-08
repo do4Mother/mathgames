@@ -1,6 +1,6 @@
 # mathgames
 
-A new Flutter project.
+A flutter project. release app on play store https://play.google.com/store/apps/details?id=com.do4mother.mathgames
 
 ## Getting Started
 
