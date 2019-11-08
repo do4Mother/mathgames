@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "soal": "3 x 3",
+      "pilihan": [6, 9, 7, 10],
+      "jawab": 9
+    },
+    {
+      "soal": "3 x 4",
+      "pilihan": [14, 12, 8, 10],
+      "jawab": 12
+    },
+    {
+      "soal": "4 x 4",
+      "pilihan": [6, 16, 12, 14],
+      "jawab": 16
+    },
+    {
+      "soal": "6 x 4",
+      "pilihan": [24, 12, 8, 10],
+      "jawab": 24
+    },
+    {
+      "soal": "6 x 5",
+      "pilihan": [30, 20, 40, 10],
+      "jawab": 30
+    },
+    {
+      "soal": "8 x 6",
+      "pilihan": [12, 14, 48, 28],
+      "jawab": 48
+    },
+    {
+      "soal": "5 x 5",
+      "pilihan": [5, 15, 25, 10],
+      "jawab": 25
+    },
+    {
+      "soal": "9 x 3",
+      "pilihan": [37, 12, 27, 17],
+      "jawab": 27
+    },
+    {
+      "soal": "10 x 2",
+      "pilihan": [20, 30, 40, 10],
+      "jawab": 20
+    },
+    {
+      "soal": "8 x 7",
+      "pilihan": [15, 65, 56, 46],
+      "jawab": 56
+    },
+    {
+      "soal": "9 x 9",
+      "pilihan": [81, 18, 27, 9],
+      "jawab": 81
+    },
+    {
+      "soal": "9 x 7",
+      "pilihan": [49, 36, 63, 16],
+      "jawab": 63
+    },
+    {
+      "soal": "12 x 11",
+      "pilihan": [123, 132, 102, 130],
+      "jawab": 132
+    },
+    {
+      "soal": "14 x 4",
+      "pilihan": [46, 56, 65, 75],
+      "jawab": 56
+    },
+    {
+      "soal": "13 x 0",
+      "pilihan": [0, 13, 130, 100],
+      "jawab": 0
+    },
+    {
+      "soal": "16 x 8",
+      "pilihan": [116, 128, 108, 102],
+      "jawab": 128
+    },
+    {
+      "soal": "8 x 4",
+      "pilihan": [12, 16, 24, 32],
+      "jawab": 32
+    },
+    {
+      "soal": "7 x 3",
+      "pilihan": [21, 27, 17, 10],
+      "jawab": 21
+    },
+    {
+      "soal": "15 x 12",
+      "pilihan": [145, 180, 115, 165],
+      "jawab": 180
+    },
+    {
+      "soal": "4 x 3 x 2",
+      "pilihan": [12, 16, 24, 32],
+      "jawab": 24
+    }
+  ]
+}
